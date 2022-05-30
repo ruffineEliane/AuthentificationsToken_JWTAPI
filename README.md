@@ -70,3 +70,4 @@ $ ./bin/phpunit
 [5]: https://symfony.com/book
 "#  Authentification_Token_AvecAPI" 
 "#Authentification_Token_AvecAPI" 
+"#AuthentificationsToken_JWTAPI" 
